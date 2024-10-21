@@ -1,0 +1,7 @@
+soundfile
+numpy
+io
+pydub
+st_audiorec
+google-cloud-speech
+ffmpeg
