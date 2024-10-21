@@ -1,5 +1,5 @@
 ---
-title: Image To Text App
+title: Quran Transcription App
 emoji: 📹
 colorFrom: blue
 colorTo: red
